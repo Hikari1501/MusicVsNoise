@@ -1,0 +1,6 @@
+{
+  "name": "Music vs. Noise",
+  "description": "A chibi cartoonish 16:9 PvZ-style English pronunciation defense game where students defeat noise monsters through accurate speech and musical rhythm.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
